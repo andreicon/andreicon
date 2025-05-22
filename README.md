@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @andreicon
-- 👀 I’m interested in web, games, crypto, etc
-- 🌱 I’m always learning new things
+### Hey, I’m @andreicon 👋
 
-<!--
-**andreicon/andreicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- 🕸️ Building stuff for the web  
+- 🕹️ Into games, sim racing, and creative tech  
+- 📚 Always learning, always tinkering  
+- 💬 Let’s connect — open to collabs, ideas, or just a good chat
