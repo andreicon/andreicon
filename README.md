@@ -3,4 +3,4 @@
 - 🕸️ Building stuff for the web  
 - 🕹️ Into games, sim racing, and creative tech  
 - 📚 Always learning, always tinkering  
-- 💬 Let’s connect — open to collabs, ideas, or just a good chat
+- 💬 Let’s connect! I'm open to collabs, ideas, or just a good chat
